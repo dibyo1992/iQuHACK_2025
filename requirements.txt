@@ -1,0 +1,6 @@
+dynamiqs
+jax[cpu]
+numpy
+matplotlib
+scipy
+jupyter
